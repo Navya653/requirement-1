@@ -7,7 +7,7 @@ variable "PATH_TO_PRIVATE_KEY" {
 }
 
 variable "PATH_TO_PUBLIC_KEY" {
-  default = "vinodhkey.pem"
+  default = "navya.pem"
 }
 
 variable "AMIS" {
